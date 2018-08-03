@@ -2,3 +2,7 @@ div.title {
   text-align: center;
   font-family: cursive;
 }
+
+h2.subtitle {
+  font-style: italic;
+}
