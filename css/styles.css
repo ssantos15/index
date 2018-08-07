@@ -4,6 +4,7 @@
 
 .fontStyle {
   font-family: monospace;
+  background-color: black;
 }
 
 .subtitle h1 {
@@ -21,8 +22,12 @@
 .sidebar
 {
   border: 3px solid purple;
-  background-color: gray;
+  background-color: black;
   padding:1%;
   margin: 1%;
   width:15%;
+}
+
+div a {
+  font-style: italic;
 }
