@@ -1,9 +1,33 @@
-div.title {
+.intro {
   text-align: center;
-  font-family: cursive;
 }
 
-h2.subtitle {
+.fontStyle {
+  font-family: monospace;
+  
+}
+
+.subtitle h1 {
   font-style: italic;
-  text-align: center;
+}
+
+.wrapAroundImage {
+  float: left;
+}
+
+.wide{
+  width:50%;
+}
+
+.sidebar
+{
+  border: 3px solid purple;
+  background-color: black;
+  padding:1%;
+  margin: 1%;
+  width:15%;
+}
+
+div a {
+  font-style: italic;
 }
