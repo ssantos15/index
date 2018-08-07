@@ -1,12 +1,28 @@
-div.title {
+.intro {
   text-align: center;
-  font-family: cursive;
 }
 
-head.class{
-  color:white;
+.fontStyle {
+  font-family: monospace;
 }
 
-body.class{
-  color:white;
+.subtitle h1 {
+  font-style: italic;
+}
+
+.wrapAroundImage {
+  float: left;
+}
+
+.wide{
+  width:50%;
+}
+
+.sidebar
+{
+  border: 3px solid purple;
+  background-color: gray;
+  padding:1%;
+  margin: 1%;
+  width:15%;
 }
