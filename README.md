@@ -10,11 +10,10 @@ _The purpose of this website is to learn more about Steve. You can use it to bec
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _This webpage has two layouts._
+* _The master branch holds the white layout_
+* _The black_layout branch holds the black layout_
+* _Saved on GH pages_
 
 _You don't need to run a server in order to access this website. The only code used in this webpage is HTML and CSS._
 
@@ -28,7 +27,7 @@ _If future devolopers or customers run into issues, they should feel free to con
 
 ## Technologies Used
 
-_I used HTML and CSS to creat this website._
+_I used HTML, CSS, and bootstrap to create this website._
 
 ### License
 
