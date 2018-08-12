@@ -19,7 +19,7 @@ _You don't need to run a server in order to access this website. The only code u
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs_
 
 ## Support and contact details
 
