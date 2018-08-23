@@ -25,10 +25,11 @@ _No known bugs_
 
 _If future devolopers or customers run into issues, they should feel free to contact me at 123-456-7899._
 
+https://github.com/ssantos15/index
+
 ## Technologies Used
 
 _I used HTML, CSS, and bootstrap to create this website.
-https://github.com/ssantos15/index_
 
 ### License
 
