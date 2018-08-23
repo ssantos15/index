@@ -27,7 +27,8 @@ _If future devolopers or customers run into issues, they should feel free to con
 
 ## Technologies Used
 
-_I used HTML, CSS, and bootstrap to create this website._
+_I used HTML, CSS, and bootstrap to create this website.
+https://github.com/ssantos15/index_
 
 ### License
 
